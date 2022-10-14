@@ -1,4 +1,4 @@
-## Bem-vindo(a) ao Meu Perfil 😁
+## Seja Bem-Vindo(a) ao Meu Perfil! Fique à vontade. 
 
  <div>
    <a href="https://github.com/GLSM19">
